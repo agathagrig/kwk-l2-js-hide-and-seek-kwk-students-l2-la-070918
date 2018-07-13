@@ -17,3 +17,4 @@ function increaseRankBy(n){
    lis[i].innerHTML = (i+1).toString()
  }
  return document.querySelector(".ranked-list ")
+}
