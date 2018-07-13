@@ -4,5 +4,5 @@ return document.querySelector(selector)
 }
 
 function nestedTarget(){
-  return documents.querySelector("#nested.target")
+  return documents.querySelector("#nested")
 }
